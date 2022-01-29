@@ -7,6 +7,15 @@
 - 🥅 2022 Goals: Becoming a Full-Stack Developer.
 - 💞️ I’m looking to collaborate on any tipe of project.
 - 📫 You can say hi to me at mr.eu21@gamil.com 
+
+
+
+- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mihai-gabriel1.visitor-badge)
+
+
+
+
+
 <!---
 mihai-gabriel1/mihai-gabriel1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
