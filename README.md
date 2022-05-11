@@ -6,7 +6,7 @@
 - 🔭 I'm curently learning from a self-paced, self-learning platform <a href="https://www.theodinproject.com/">TheOdinProject</a>.
 - 🥅 2022 Goals: Becoming a Full-Stack Developer.
 - 💞️ I’m looking to collaborate on any tipe of project.
-- 📫 You can say hi to me at mr.eu21@gamil.com 
+- 📫 You can say hi at mr.eu21@gamil.com 
 
 
 
