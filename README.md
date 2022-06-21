@@ -1,6 +1,6 @@
 ### Hi there, I'm Gabriel, glad to see you!
 
-## I'm a husband, soon-to-be a father, self-taught Front-End Developer.
+## I'm a husband, a father, ambitious, self-taught Front-End Developer.
 - 👀 I’m interested in Web Development, GYM stuff and when there is time, some pc-gaming!
 - 🌱 I’m currently learning HTML, CSS and Javascript!
 - 🔭 I'm curently learning from a self-paced, self-learning platform <a href="https://www.theodinproject.com/">TheOdinProject</a>.
