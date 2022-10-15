@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on any tipe of project.
 - 📫 You can say hi at mr.eu21@gmail.com 
 
-  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mihai-gabriel1.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+
 
 
 
