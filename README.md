@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning HTML, CSS and Javascript!
 - 🔭 I'm curently learning from a self-paced, self-learning platform <a href="https://www.theodinproject.com/">TheOdinProject</a>.
 - 🥅 2022 Goals: Becoming a Full-Stack Developer.
-- 💞️ I’m looking to collaborate on any tipe of project.
+- 💞️ I’m looking to collaborate on any type of project.
 - 📫 You can say hi at mr.eu21@gmail.com 
 
 
