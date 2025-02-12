@@ -19,11 +19,11 @@ I'm Gabriel, a passionate Full-Stack Developer, loving husband, and proud father
       "🔧 Technical Consulting",
       "💼 Business Solutions"
     ],
-    "contactMe": "mr.eu21@gmail.com"
+    "contactMe": "mihai.gabriel.office@gmail.com"
   }
   ```
   
-  [![Hire Me](https://img.shields.io/badge/Hire%20Me-Open%20for%20Work-success?style=for-the-badge&logo=mailchimp&logoColor=white)](mailto:mr.eu21@gmail.com)
+  [![Hire Me](https://img.shields.io/badge/Hire%20Me-Open%20for%20Work-success?style=for-the-badge&logo=mailchimp&logoColor=white)](mailto:mihai.gabriel.office@gmail.com)
 
 </div>
 
@@ -34,7 +34,7 @@ I'm Gabriel, a passionate Full-Stack Developer, loving husband, and proud father
 - 🎮 PC gaming enthusiast in my free time
 - 🌱 Always learning and growing in the tech world
 - 👯 Open to collaborate on exciting projects
-- 📫 Reach me at: mr.eu21@gmail.com
+- 📫 Reach me at: mihai.gabriel.office@gmail.com
 
 ## 🛠️ Tech Stack
 
@@ -121,7 +121,7 @@ I'm Gabriel, a passionate Full-Stack Developer, loving husband, and proud father
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihai-gabriel1/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.eu21@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihai.gabriel.office@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mihai-gabriel1)
 
 </div>
